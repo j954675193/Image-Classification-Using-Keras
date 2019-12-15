@@ -82,7 +82,7 @@ import numpy as np
 from keras.preprocessing import image
 import matplotlib.image as mpimg
 
-test_img = image.load_img('tigers.jpg',target_size=(64,64))
+test_img = image.load_img('aa.jpg',target_size=(64,64))
 
 test_img = np.expand_dims(test_img,axis=0)
 
@@ -134,7 +134,7 @@ import cv2
 import cv2
 face_cascade = cv2.CascadeClassifier('model-haar/haarcascade_frontalface_default.xml')
 # Read the input image
-img = cv2.imread('tigers.jpg')
+img = cv2.imread('aa.jpg')
 # Convert into grayscale
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 # Detect faces
