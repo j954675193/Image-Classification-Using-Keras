@@ -163,11 +163,21 @@ classifier.add(MaxPooling2D(pool_size = (2, 2)))
 classifier.add(Flatten())
 
 ## Step 4 - Full connection
-classifier.add(Dense(400,activation = 'relu'))# 128,relu
+classifier.add(Dense(400,activation = 'relu'))// 128,relu
+
+
 classifier.add(Dropout(0.3))
-classifier.add(Dense(400,activation = 'relu'))# 128,relu
+
+
+classifier.add(Dense(400,activation = 'relu'))// 128,relu
+
+
 classifier.add(Dropout(0.2))
-classifier.add(Dense(4,activation = 'softmax'))#4,sigmoid
+
+
+classifier.add(Dense(4,activation = 'softmax'))//4,sigmoid
+
+
 
 
 
