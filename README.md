@@ -148,23 +148,23 @@ from keras.layers import Dense, Dropout
 
 classifier = Sequential()
 
-# Step 1 - Convolution
+## Step 1 - Convolution
 classifier.add(Convolution2D(32, 3, 3, input_shape = (64, 64, 3), activation = 'relu'))
 
-# Step 2 - Pooling
+## Step 2 - Pooling
 classifier.add(MaxPooling2D(pool_size = (2, 2)))
 
-# Adding a second convolutional layer
+## Adding a second convolutional layer
 classifier.add(Convolution2D(32, 3, 3, activation = 'relu'))
 classifier.add(MaxPooling2D(pool_size = (2, 2)))
-# #extra convulutional layer
-# classifier.add(Convolution2D(32,3,3,activation='relu'))
-# classifier.add(MaxPooling2D(pool_size = (2, 2)))
+## extra convulutional layer
+## classifier.add(Convolution2D(32,3,3,activation='relu'))
+## classifier.add(MaxPooling2D(pool_size = (2, 2)))
 
-# Step 3 - Flattening
+## Step 3 - Flattening
 classifier.add(Flatten())
 
-# Step 4 - Full connection
+## Step 4 - Full connection
 classifier.add(Dense(400,activation = 'relu'))# 128,relu
 classifier.add(Dropout(0.3))
 classifier.add(Dense(400,activation = 'relu'))# 128,relu
