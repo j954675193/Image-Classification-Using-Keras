@@ -92,7 +92,14 @@ https://www.kaggle.com/tongpython/cat-and-dog
 
 #
 
+#Libraries Needed to install
+keras==2.0.0
+tensorflow==1.14.0
+opencv-python
 
+
+# My project accuracy is really bad this is just the concept on how to implement keras with cnn network do do image classification
+## improvement can be done by changing the learning rate or do regularization method  which will be explained in the next few lines
 
 
 
