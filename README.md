@@ -93,8 +93,14 @@ https://www.kaggle.com/tongpython/cat-and-dog
 #
 
 #Libraries Needed to install
+
+
 keras==2.0.0
+
+
 tensorflow==1.14.0
+
+
 opencv-python
 
 
