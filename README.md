@@ -207,7 +207,7 @@ this is the model created by me
 # test with sample image 
 
 <p align="center">
-  <img width="460" height="300" src="screenshots/cats.jpg">
+  <img width="460" height="300" src="screenshots/cats.JPG">
 </p>
 
 
