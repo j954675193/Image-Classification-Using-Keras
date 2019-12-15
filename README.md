@@ -15,3 +15,14 @@ When a CNN model is trained to classify an image, it searches for the features a
 There are many applications for image classification with deep neural networks. CNNs can be embedded in the systems of autonomous cars to help the system recognize the surrounding of the car and classify objects to distinguish between ones that do not require any action, such as trees on the side of the road, and ones that do, such as civilians crossing the street.
 
 Another use for CNNs is in advertising. For example, CNNs can easily scan a person’s Facebook page, classify fashion-related images and detect the person’s preferred style, allowing marketers to offer more relevant clothing advertisements. With a deep enough network, this principle can also be applied to identifying locations, such as pubs or malls, and hobbies like football or dancing.
+
+
+
+DataSets:
+Training
+
+https://drive.google.com/open?id=1m1R6NYAMN4PsvPcvCO0T44l3RFDDPkuv
+
+
+Validation
+
