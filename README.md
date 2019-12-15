@@ -181,6 +181,30 @@ classifier.add(Dropout(0.2))
 classifier.add(Dense(4,activation = 'softmax'))//4,sigmoid
 
 
+# Compiling the CNN
+classifier.compile(optimizer = 'adam', loss = 'sparse_categorical_crossentropy', metrics = ['accuracy'])
+
+# Train the model
+
+classifier.fit_generator(training_set,
+                         samples_per_epoch = 1797,
+                         nb_epoch = 10,
+                         validation_data = test_set,
+                         nb_val_samples = 607)
+                         
+                         
+                 
+                 
+ # save the model weights
+
+classifier.save_weights('navin.h5')
+
+
+## Since the model weights created by me is too large
+https://drive.google.com/open?id=1eJa7TgDjpoAxty5hsI_VAYAkjwxCbxuk
+this is the model created by me
+
+
 
 
 
