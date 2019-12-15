@@ -28,3 +28,68 @@ Validation
 
 https://drive.google.com/open?id=1HWIkgrK6JhBLZR-iMkiTnakxoDfuDE-O
 
+
+
+
+
+
+Datasets:
+
+https://www.kaggle.com/sanikamal/horses-or-humans-dataset
+
+
+https://www.kaggle.com/tongpython/cat-and-dog
+
+
+
+
+
+# Image classification for  4 classes :
+
+##   cat
+
+<p align="center">
+  <img width="460" height="300" src="screenshots/cat.jpg">
+</p
+
+
+
+
+
+## dog
+
+<p align="center">
+  <img width="460" height="300" src="screenshots/dog.JPG">
+</p
+
+
+
+
+
+## horse
+
+<p align="center">
+  <img width="460" height="300" src="screenshots/horse.jpg">
+</p
+
+
+
+
+## human
+
+
+
+<p align="center">
+  <img width="460" height="300" src="screenshots/navin.jpg">
+</p
+
+
+
+
+
+
+
+
+
+
+
