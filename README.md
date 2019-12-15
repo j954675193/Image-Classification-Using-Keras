@@ -59,7 +59,7 @@ https://www.kaggle.com/tongpython/cat-and-dog
 ## dog
 
 <p align="center">
-  <img width="460" height="300" src="screenshots/dog.JPG">
+  <img width="460" height="300" src="screenshots/dog.jpg">
 </p
 
 
