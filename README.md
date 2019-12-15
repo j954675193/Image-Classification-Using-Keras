@@ -227,7 +227,7 @@ this is the model created by me
 
 
 
-## [test] (https://github.com/navin20/Image-Classification-Using-Keras/blob/master/notcnnc.py)
+## [test](https://github.com/navin20/Image-Classification-Using-Keras/blob/master/notcnnc.py)
 
 
 
