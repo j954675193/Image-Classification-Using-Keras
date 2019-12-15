@@ -1,4 +1,4 @@
-# Image-Classification-Using-Keras
+# Basic BImage-Classification-Using-Keras
 
 
 ## Image classification algorithms, powered by Deep Learning (DL) Convolutional Neural Networks  (CNN), fuel many advanced technologies and are a core research subject for many industries ranging from transportation to healthcare.
