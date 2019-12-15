@@ -104,7 +104,7 @@ tensorflow==1.14.0
 opencv-python
 
 
-# My project accuracy is not good this is just the concept on how to implement keras with cnn network do do image classification
+# My project accuracy is not good this is just the concept on how to implement keras with cnn network to do image classification
 ## improvement can be done by changing the learning rate or do regularization method  which will be explained in the next few lines
 
 #                       Steps to train the model
