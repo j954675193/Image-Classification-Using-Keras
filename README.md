@@ -217,11 +217,9 @@ this is the model created by me
 
 ## [train](https://github.com/navin20/Image-Classification-Using-Keras/blob/master/cnn.py)
 
+#
 
-
-# testing File:
-
-
+# Testing File:
 
 
 
