@@ -50,7 +50,9 @@ https://www.kaggle.com/tongpython/cat-and-dog
 
 <p align="center">
   <img width="460" height="300" src="screenshots/cat.jpg">
-</p
+</p>
+
+#
 
 
 
@@ -60,7 +62,9 @@ https://www.kaggle.com/tongpython/cat-and-dog
 
 <p align="center">
   <img width="460" height="300" src="screenshots/dog.jpg">
-</p
+</p>
+  
+#
 
 
 
@@ -70,7 +74,9 @@ https://www.kaggle.com/tongpython/cat-and-dog
 
 <p align="center">
   <img width="460" height="300" src="screenshots/horse.jpg">
-</p
+</p>
+  
+  #
 
 
 
@@ -81,7 +87,10 @@ https://www.kaggle.com/tongpython/cat-and-dog
 
 <p align="center">
   <img width="460" height="300" src="screenshots/navin.jpg">
-</p
+</p>
+
+
+#
 
 
 
