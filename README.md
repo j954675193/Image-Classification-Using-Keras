@@ -204,6 +204,32 @@ classifier.save_weights('navin.h5')
 https://drive.google.com/open?id=1eJa7TgDjpoAxty5hsI_VAYAkjwxCbxuk
 this is the model created by me
 
+# test with sample image 
+
+<p align="center">
+  <img width="460" height="300" src="screenshots/dog.jpg">
+</p>
+
+
+
+# Training File:
+
+
+## cnn.py
+
+
+
+# testing File:
+
+
+
+
+## notcnnc.py
+
+
+
+
+
 
 
 
