@@ -215,7 +215,7 @@ this is the model created by me
 # Training File:
 
 
-## cnn.py
+## [train](https://github.com/navin20/Image-Classification-Using-Keras/blob/master/cnn.py)
 
 
 
@@ -224,7 +224,8 @@ this is the model created by me
 
 
 
-## notcnnc.py
+## [test] (https://github.com/navin20/Image-Classification-Using-Keras/blob/master/notcnnc.py)
+
 
 
 
